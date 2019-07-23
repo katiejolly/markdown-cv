@@ -3,6 +3,7 @@ layout: cv
 title: Katie Jolly's CV
 ---
 # Katie Jolly
+
 Geographer, Data Scientist, Information Designer.
 
 <div id="webaddress">
@@ -32,10 +33,11 @@ B.A. Geography, B.A. Applied Mathematics and Statistics (honors)
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2019`
+Student educator of the year, Macalester College
 
-Associate, *French Academy of Science*, Paris, France
+`2018`
+Student educator of the year, Macalester College
 
 
 
