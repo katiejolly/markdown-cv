@@ -16,7 +16,7 @@ Geographer, Data Scientist, Information Designer.
 Regional Policy and Research at Metropolitan Council of the Twin Cities
 
 
-### Research and professional interests
+## Research and professional interests
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
