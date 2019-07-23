@@ -16,15 +16,17 @@ Geographer, Data Scientist, Information Designer.
 Regional Policy and Research at Metropolitan Council of the Twin Cities
 
 
-### Research and professional interests
+## Research and professional interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Cartography and information design, Bayesian spatial modeling, data science education, data communication, active transportation & public transit planning, public policy evaluation, statistical computing, neighborhood development
 
 
 ## Education
 
 `2015 to 2019`
 __Macalester College | Saint Paul, MN__
+
+B.A. Geography, B.A. Applied Mathematics and Statistics (honors)
 
 
 
