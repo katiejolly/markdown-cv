@@ -142,38 +142,38 @@ Student Scholar & First Place in Undergraduate Presentation Competition, *Minnes
 ## Community Engagement
 
 `2019`
-**Saint Paul Public Libraries** | Panelist at [Open Data Party](https://sppl.bibliocommons.com/events/5ce847c82e1cc62600792065) series, part of the [Civic Switchboard Project](https://civic-switchboard.github.io/)
+**Saint Paul Public Libraries**, Panelist at [Open Data Party](https://sppl.bibliocommons.com/events/5ce847c82e1cc62600792065) series, part of the [Civic Switchboard Project](https://civic-switchboard.github.io/)
 
-**RLadies Twin Cities** | Co-organizer
+**RLadies Twin Cities**, Co-organizer
 
-**Macalester Mathematics, Statistics, and Computer Science Department** | Student Representative
+**Macalester Mathematics, Statistics, and Computer Science Department**, Student Representative
 
 `2018`
-**Macalester Women in Mathematics, Statistics, and Computer Science Committee** | Committee Member
+**Macalester Women in Mathematics, Statistics, and Computer Science Committee**, Committee Member
 
 
 ## Talks
 
 `2019`
-**Spatial Data Science in R** | rNorth Conference
+**Spatial Data Science in R**, rNorth Conference
 
 **Digitizing, Districting, and Data: Creating an Open-Source Precinct
-Shapefile for Ohio** | Honors Defense, Macalester College
+Shapefile for Ohio**, Honors Defense, Macalester College
 
 `2018`
 **Digitizing, Districting, and Data: Creating an Open-Source Precinct
-Shapefile for Ohio** | eUSR Conference
+Shapefile for Ohio**, eUSR Conference
 
-**GIS as a Civic Engagement Tool: The Geography of Voting Rights** | Macalester Geography Department Seminar
+**GIS as a Civic Engagement Tool: The Geography of Voting Rights**, Macalester Geography Department Seminar
 
 **Digitizing, Districting, and Data: Creating an Open-Source Precinct
-Shapefile for Ohio** | MN GIS/LIS Conference
+Shapefile for Ohio**, MN GIS/LIS Conference
 
 `2017`
-**Political donations from STEM community: Learning dplyr!** | RLadies Twin Cities
+**Political donations from STEM community: Learning dplyr!**, RLadies Twin Cities
 
-**Writing narratives with data: An introduction to ggplot2!** | RLadies Twin Cities
+**Writing narratives with data: An introduction to ggplot2!**, RLadies Twin Cities
 
-**Proud leaders: How women in tech talk about themselves on Twitter** | eUSR Conference
+**Proud leaders: How women in tech talk about themselves on Twitter**, eUSR Conference
 
-**Proud leaders: How women in tech talk about themselves on Twitter** | Hack and Tell DC
+**Proud leaders: How women in tech talk about themselves on Twitter**, Hack and Tell DC
