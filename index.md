@@ -4,7 +4,7 @@ title: Katie Jolly's CV
 ---
 # Katie Jolly
 
-Geographer, Data Scientist, Information Designer.
+Geographer, Data Scientist, Information Designer | Saint Paul & Seattle (soon)
 
 <div id="webaddress">
 <a href="mailto:katiejolly6@gmail.com">katiejolly6@gmail.com</a>
