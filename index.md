@@ -14,7 +14,7 @@ Geographer, Data Scientist, Information Designer.
 
 ## Currently
 
-Regional Policy and Research at Metropolitan Council of the Twin Cities @icn-camera
+Regional Policy and Research at Metropolitan Council of the Twin Cities
 
 
 ## Research and professional interests
