@@ -66,7 +66,6 @@ body {
 	margin-top: 1em;
 	margin-left: 1em;
 	background-color: #fffff7;
-	color: #3f3e4d
 }
 
 p {
@@ -75,6 +74,7 @@ p {
 	margin-bottom: 0.7em;
 	margin-right: 0.7;
 	width: 45%;
+	color: #4e5154
 }
 
 code {
@@ -86,7 +86,7 @@ code {
 }
 
 p code {
-	position: absolute;
+	position: relative;
 	text-align: right;
 	right: -15%;
 }
