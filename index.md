@@ -46,7 +46,7 @@ B.A. Geography, B.A. Applied Mathematics and Statistics (honors) *cum laude*
 * Used Public Use Microdata Survey data to create a series of visualizations about the intersection of race and disability in the Twin Cities for use by the Council for transportation equity planning
 
 `January to May 2019`
-**Macalester College Mathematics, Statistics, and Computer Science Department** | Saint Paul, MN | Teaching Assistant, Machine Learning and Statistical Computing (MATH 253)
+**Macalester College Mathematics, Statistics, and Computer Science Department** | Saint Paul, MN |<br>Teaching Assistant, Machine Learning and Statistical Computing (MATH 253)
 
 * Attended class to assist with activities and lectures
 
