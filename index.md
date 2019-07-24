@@ -8,7 +8,7 @@ Geographer, Data Scientist, Information Designer.
 
 <div id="webaddress">
 <a href="mailto:katiejolly6@gmail.com">katiejolly6@gmail.com</a>
-| <a href="http://www.katiejolly.io">Website</a>
+| <a href="http://www.katiejolly.io">Website</a> | <a href="https://github.com/katiejolly">Github</a>
 </div>
 
 
@@ -36,8 +36,8 @@ B.A. Geography, B.A. Applied Mathematics and Statistics (honors) *cum laude*
 
 ## Professional Experience
 
-`May - August 2019`
-__Metropolitan Council of the Twin Cities__
+`May to August 2019`
+__Metropolitan Council of the Twin Cities__ | Data Science Intern
 
 * Found and implemented an algorithm to aggregate census block groups according to contextual and compositional variables in order to create larger geographies with lower standard errors that are still contextually meaningful to local planners
 
@@ -45,6 +45,77 @@ __Metropolitan Council of the Twin Cities__
 
 * Used Public Use Microdata Survey data to create a series of visualizations about the intersection of race and disability in the Twin Cities for use by the Council for transportation equity planning
 
+`January to May 2019`
+__Macalester College Mathematics, Statistics, and Computer Science Department__ | Saint Paul, MN | Teaching Assistant, Machine Learning and Statistical Computing (MATH 253)
+
+* Attended class to assist with activities and lectures
+
+* Held four office hours per week to answer homework and general course questions
+
+* Served as a mentor for students interested in data science and statistics beyond the course
+
+* Graded in-class activities, homework, and quizzes promptly
+
+* Met regularly with the professor to discuss my work and ways to improve
+
+`June to August 2018`
+__Voting Rights Data Institute at Tufts University and MIT__ | Somerville, MA | Undergraduate Summer Fellow
+
+* Managed a team to build an [open source shapefile](https://github.com/mggg/ohio-precincts) of 2016 voting precincts in
+Ohio using digitization of PDF maps and computational methods to approximate
+boundaries in counties without maps
+
+* Designed and wrote a [handbook for digitizing precinct maps](https://www.katiejolly.io/pdf/digitizing_guide.pdf) using QGIS aimed at volunteers with limited GIS background
+
+* Wrote a [map design guide](https://www.katiejolly.io/pdf/VRDI%20Map%20Guide.pdf) aimed at mathematicians to explain concepts like projection, classification schemes, and color choices
+
+* Presented updates weekly in an informal session with other fellows and mentors
+
+* Pair-programmed an interactive Shiny app showing the output from the Markov chain Monte Carlo algorithm that creates millions of potential districting plans by mapping district flips of individual precincts for use by other researchers
+
+`August 2017 to December 2018`
+__Macalester College Mathematics, Statistics, and Computer Science Department__ | Saint Paul, MN | Teaching Assistant, Introduction to Data Science (COMP 112)
+
+* Attended class to assist with activities and lectures
+
+* Held four office hours per week to answer homework and general course questions
+
+* Served as a mentor for students interested in data science and statistics beyond the course, particularly the first-year students
+
+* Graded in-class activities and homework promptly
+
+* Met regularly with the professor to discuss my work and ways to improve
+
+`June to August 2017`
+__BlueLabs__ | Washington, DC | Data Science Intern
+
+* Worked on the data science team doing projects related to political analytics
+
+* Created maps for use in professional presentations
+
+* Wrote Python scripts to scrape web data
+
+* Created a database of influential political donors and potential donors
+
+`January to May 2017`
+__Planned Parenthood Minnesota, North Dakota, South Dakota__ | Saint Paul, MN | Statistical Consultant
+
+* Built logistic regression models to predict no-shows based on previous appointment data and contextual variables
+
+* Applied network analysis and spatial modeling to determine the optimal clinic to open for late hours
+
+* Communicated findings to Planned Parenthood staff in formal presentation to inform changes in scheduling procedures
+
+## Publications
+
+`2019`
+[Curious City: In, Out, Above, Beyond, Saint Paul](https://issuu.com/maccarto/docs/curiouscity), *a cultural atlas*
+
+## R Packages
+
+**Jolly, K.**; Kelly, K. (2019). approxprecincts: Approximate Voting Precinct Boundaries Using Voterfile Addresses. R package version 0.0.0.9000. https://github.com/ykelly/approxprecincts
+
+**Jolly, K.** (2018). advicegiveR: R Wrapper for the Advice Slip API. R package version 1.0.0. https://github.com/katiejolly/advicegiveR
 
 
 ## Awards
@@ -66,3 +137,48 @@ David A. Lanegran Award in Geography, *Macalester College Geography Department*
 Electronic Undergraduate Statistics Research Conference Best Video Presentation, *The Consortium for the Advancement of Undergraduate Statistics Education*
 
 Student Scholar & First Place in Undergraduate Presentation Competition, *Minnesota GIS/LIS Consortium*
+
+
+## Community Engagement
+
+`2019`
+
+__Saint Paul Public Libraries__ | Panelist at [Open Data Party](https://sppl.bibliocommons.com/events/5ce847c82e1cc62600792065) series, part of the [Civic Switchboard Project](https://civic-switchboard.github.io/)
+
+__RLadies Twin Cities__ | Co-organizer
+
+__Macalester Mathematics, Statistics, and Computer Science Department__ | Student Representative
+
+`2018`
+
+__Macalester Women in Mathematics, Statistics, and Computer Science Committee__ | Committee Member
+
+
+## Talks
+
+`2019`
+
+__Spatial Data Science in R__ | rNorth Conference
+
+__Digitizing, Districting, and Data: Creating an Open-Source Precinct
+Shapefile for Ohio__ | Honors Defense, Macalester College
+
+`2018`
+
+__Digitizing, Districting, and Data: Creating an Open-Source Precinct
+Shapefile for Ohio__ | eUSR Conference
+
+__GIS as a Civic Engagement Tool: The Geography of Voting Rights__ | Macalester Geography Department Seminar
+
+__Digitizing, Districting, and Data: Creating an Open-Source Precinct
+Shapefile for Ohio__ | MN GIS/LIS Conference
+
+`2017`
+
+__Political donations from STEM community: Learning dplyr!__ | RLadies Twin Cities
+
+__Writing narratives with data: An introduction to ggplot2!__ | RLadies Twin Cities
+
+__Proud leaders: How women in tech talk about themselves on Twitter__ | eUSR Conference
+
+__Proud leaders: How women in tech talk about themselves on Twitter__ | Hack and Tell DC
