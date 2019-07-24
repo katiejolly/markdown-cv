@@ -165,7 +165,7 @@ a {
 }
 
 a:hover {
-	color:#fce303
+	background-color:#fce303;
 }
 
 #webaddress {

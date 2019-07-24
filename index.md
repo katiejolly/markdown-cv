@@ -21,6 +21,11 @@ Regional Policy and Research at Metropolitan Council of the Twin Cities
 
 Cartography and information design, Bayesian spatial modeling, data science education, data communication, active transportation & public transit planning, public policy evaluation, statistical computing, neighborhood development
 
+## Technical Skills
+
+R/RStudio, ArcGIS, QGIS, GitHub, Excel, Python, SQL, HTML5/CSS, LaTeX, Tableau,
+Django, Jekyll, R Shiny, Adobe Illustrator & InDesign, Leaflet, Inkscape, Markdown
+
 
 ## Education
 
