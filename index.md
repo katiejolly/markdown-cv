@@ -121,12 +121,12 @@ boundaries in counties without maps
 ## Awards
 
 `2019`
-Student educator of the year, *Macalester College*
+Student Educator of the Year, *Macalester College*
 
 Marble-Boyle Undergraduate Achievement Award in Geographic Science, *American Association of Geographers (AAG)*
 
 `2018`
-Student educator of the year, *Macalester College*
+Student Educator of the Year, *Macalester College*
 
 Undergraduate Statistics Research Project Honorable Mention, *The Consortium for the Advancement of Undergraduate Statistics Education*
 
@@ -142,7 +142,7 @@ Student Scholar & First Place in Undergraduate Presentation Competition, *Minnes
 ## Community Engagement
 
 `2019`
-**Saint Paul Public Libraries**, Panelist at [Open Data Party](https://sppl.bibliocommons.com/events/5ce847c82e1cc62600792065) series, part of the [Civic Switchboard Project](https://civic-switchboard.github.io/)
+**Saint Paul Public Libraries**, Panelist at the [Open Data Party](https://sppl.bibliocommons.com/events/5ce847c82e1cc62600792065) series, part of the [Civic Switchboard Project](https://civic-switchboard.github.io/)
 
 **RLadies Twin Cities**, Co-organizer
 
