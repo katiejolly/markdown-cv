@@ -142,7 +142,6 @@ Student Scholar & First Place in Undergraduate Presentation Competition, *Minnes
 ## Community Engagement
 
 `2019`
-
 **Saint Paul Public Libraries** | Panelist at [Open Data Party](https://sppl.bibliocommons.com/events/5ce847c82e1cc62600792065) series, part of the [Civic Switchboard Project](https://civic-switchboard.github.io/)
 
 **RLadies Twin Cities** | Co-organizer
@@ -150,21 +149,18 @@ Student Scholar & First Place in Undergraduate Presentation Competition, *Minnes
 **Macalester Mathematics, Statistics, and Computer Science Department** | Student Representative
 
 `2018`
-
 **Macalester Women in Mathematics, Statistics, and Computer Science Committee** | Committee Member
 
 
 ## Talks
 
 `2019`
-
 **Spatial Data Science in R** | rNorth Conference
 
 **Digitizing, Districting, and Data: Creating an Open-Source Precinct
 Shapefile for Ohio** | Honors Defense, Macalester College
 
 `2018`
-
 **Digitizing, Districting, and Data: Creating an Open-Source Precinct
 Shapefile for Ohio** | eUSR Conference
 
@@ -174,7 +170,6 @@ Shapefile for Ohio** | eUSR Conference
 Shapefile for Ohio** | MN GIS/LIS Conference
 
 `2017`
-
 **Political donations from STEM community: Learning dplyr!** | RLadies Twin Cities
 
 **Writing narratives with data: An introduction to ggplot2!** | RLadies Twin Cities
