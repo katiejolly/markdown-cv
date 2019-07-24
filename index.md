@@ -36,7 +36,7 @@ B.A. Geography, B.A. Applied Mathematics and Statistics (honors)
 `2019`
 Student educator of the year, *Macalester College*
 
-Marble-Boyle Undergraduate Achievement Award in Geographic Science, *American Association of Geographers (AAG) *
+Marble-Boyle Undergraduate Achievement Award in Geographic Science, *American Association of Geographers (AAG)*
 
 `2018`
 Student educator of the year, *Macalester College*
