@@ -39,13 +39,12 @@ B.A. Geography, B.A. Applied Mathematics and Statistics (honors) *cum laude*
 `May - August 2019`
 __Metropolitan Council of the Twin Cities__
 
-<ul>
-<li>Found and implemented an algorithm to aggregate census block groups according to contextual and compositional variables in order to create larger geographies with lower standard errors that are still contextually meaningful to local planners
+* Found and implemented an algorithm to aggregate census block groups according to contextual and compositional variables in order to create larger geographies with lower standard errors that are still contextually meaningful to local planners
 
-<li>Designed Bayesian hierarchical models and ecological inference models to study regional park visitation patterns using location-based services data
+* Designed Bayesian hierarchical models and ecological inference models to study regional park visitation patterns using location-based services data
 
-<li>Used Public Use Microdata Survey data to create a series of visualizations about the intersection of race and disability in the Twin Cities for use by the Council for transportation equity planning
-</ul>
+* Used Public Use Microdata Survey data to create a series of visualizations about the intersection of race and disability in the Twin Cities for use by the Council for transportation equity planning
+
 
 
 ## Awards
