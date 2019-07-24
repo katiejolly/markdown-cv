@@ -32,18 +32,21 @@ Django, Jekyll, R Shiny, Adobe Illustrator & InDesign, Leaflet, Inkscape, Markdo
 `2015 to 2019`
 __Macalester College | Saint Paul, MN__
 
-B.A. Geography, B.A. Applied Mathematics and Statistics (honors)
+B.A. Geography, B.A. Applied Mathematics and Statistics (honors) *cum laude*
 
 ## Professional Experience
 
 `May - August 2019`
 __Metropolitan Council of the Twin Cities__
 
-* Found and implemented an algorithm to aggregate census block groups according to contextual and compositional variables in order to create larger geographies with lower standard errors that are still contextually meaningful to local planners
+<ul>
+<li>Found and implemented an algorithm to aggregate census block groups according to contextual and compositional variables in order to create larger geographies with lower standard errors that are still contextually meaningful to local planners
 
-* Designed Bayesian hierarchical models and ecological inference models to study regional park visitation patterns using location-based services data
+<li>Designed Bayesian hierarchical models and ecological inference models to study regional park visitation patterns using location-based services data
 
-* Used Public Use Microdata Survey data to create a series of visualizations about the intersection of race and disability in the Twin Cities for use by the Council for transportation equity planning
+<li>Used Public Use Microdata Survey data to create a series of visualizations about the intersection of race and disability in the Twin Cities for use by the Council for transportation equity planning
+</ul>
+
 
 ## Awards
 
