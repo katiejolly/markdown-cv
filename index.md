@@ -7,7 +7,7 @@ title: Katie Jolly's CV
 Geographer, Data Scientist, Information Designer.
 
 <div id="webaddress">
-<a href="katiejolly6@gmail.com">katiejolly6@gmail.com</a>
+<a href="mailto:katiejolly6@gmail.com">katiejolly6@gmail.com</a>
 | <a href="http://www.katiejolly.io">Website</a>
 </div>
 
