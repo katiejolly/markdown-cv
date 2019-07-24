@@ -86,9 +86,9 @@ code {
 }
 
 p code {
-	position: relative;
+	position: absolute;
 	text-align: right;
-	right: -15%;
+	right: -5%;
 }
 
 
