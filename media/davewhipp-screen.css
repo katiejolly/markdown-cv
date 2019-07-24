@@ -121,8 +121,8 @@ li ul {
 	margin-top: 0.25em;
 }
 
-h2,h3,h4 {
-	font-family: 'Lora', serif;
+h1,h2,h3,h4 {
+	font-family: 'Open Sans', sans-serif;
 	width: 90%;
 }
 
@@ -133,7 +133,6 @@ h1 {
 	position: relative;
 	left: 25%;
 	color: #B75D69;
-	font-family: 'Open Sans', sans-serif;
 	width: 80%;
 }
 
