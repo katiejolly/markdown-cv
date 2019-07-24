@@ -82,13 +82,13 @@ code {
 	font-size: 90%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #aaa;
+	color: #74828f;
 }
 
 p code {
 	position: absolute;
 	text-align: right;
-	right: -20%;
+	right: -15%;
 }
 
 
@@ -138,8 +138,8 @@ h1 {
 
 h1+p {
 	/*subtitle*/
-	font-size: 100%;
-	color: #774C60;
+	font-size: 150%;
+	color: #74828f;
 	font-family: 'Lora', serif;
 	font-style: italic;
 }

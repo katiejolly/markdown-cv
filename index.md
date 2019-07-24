@@ -8,7 +8,7 @@ Geographer, Data Scientist, Information Designer.
 
 <div id="webaddress">
 <a href="mailto:katiejolly6@gmail.com">katiejolly6@gmail.com</a>
-| <a href="http://www.katiejolly.io">Website</a> | <a href="https://github.com/katiejolly">Github</a>
+| <a href="http://www.katiejolly.io">Website</a> | <a href="https://github.com/katiejolly">Github</a> | <a href="http://www.katiejolly.io/blog">Blog</a>
 </div>
 
 
@@ -74,7 +74,7 @@ boundaries in counties without maps
 * Pair-programmed an interactive Shiny app showing the output from the Markov chain Monte Carlo algorithm that creates millions of potential districting plans by mapping district flips of individual precincts for use by other researchers
 
 `August 2017 to December 2018`
-**Macalester College Mathematics, Statistics, and Computer Science Department** | Saint Paul, MN | Teaching Assistant, Introduction to Data Science (COMP 112)
+**Macalester College Mathematics, Statistics, and Computer Science Department** | Saint Paul, MN |<br> Teaching Assistant, Introduction to Data Science (COMP 112)
 
 * Attended class to assist with activities and lectures
 
