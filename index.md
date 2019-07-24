@@ -29,51 +29,24 @@ __Macalester College | Saint Paul, MN__
 
 B.A. Geography, B.A. Applied Mathematics and Statistics (honors)
 
-
+## Professional Experience
 
 ## Awards
 
 `2019`
-Student educator of the year, Macalester College
+Student educator of the year, *Macalester College*
+
+Marble-Boyle Undergraduate Achievement Award in Geographic Science, *American Association of Geographers (AAG) *
 
 `2018`
-Student educator of the year, Macalester College
+Student educator of the year, *Macalester College*
 
+Undergraduate Statistics Research Project Honorable Mention, *The Consortium for the Advancement of Undergraduate Statistics Education*
 
+Daniel Kaplan Award in Statistics and Data Science, *Macalester College Mathematics, Statistics, and Computer Science Department*
 
-## Publications
+David A. Lanegran Award in Geography, *Macalester College Geography Department*
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Electronic Undergraduate Statistics Research Conference Best Video Presentation, *The Consortium for the Advancement of Undergraduate Statistics Education*
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas.
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Student Scholar & First Place in Undergraduate Presentation Competition, *Minnesota GIS/LIS Consortium*
