@@ -30,14 +30,14 @@ Django, Jekyll, R Shiny, Adobe Illustrator & InDesign, Leaflet, Inkscape, Markdo
 ## Education
 
 `2015 to 2019`
-__Macalester College | Saint Paul, MN__
+**Macalester College | Saint Paul, MN**
 
 B.A. Geography, B.A. Applied Mathematics and Statistics (honors) *cum laude*
 
 ## Professional Experience
 
 `May to August 2019`
-__Metropolitan Council of the Twin Cities__ | Data Science Intern
+**Metropolitan Council of the Twin Cities** | Data Science Intern
 
 * Found and implemented an algorithm to aggregate census block groups according to contextual and compositional variables in order to create larger geographies with lower standard errors that are still contextually meaningful to local planners
 
@@ -46,7 +46,7 @@ __Metropolitan Council of the Twin Cities__ | Data Science Intern
 * Used Public Use Microdata Survey data to create a series of visualizations about the intersection of race and disability in the Twin Cities for use by the Council for transportation equity planning
 
 `January to May 2019`
-__Macalester College Mathematics, Statistics, and Computer Science Department__ | Saint Paul, MN | Teaching Assistant, Machine Learning and Statistical Computing (MATH 253)
+**Macalester College Mathematics, Statistics, and Computer Science Department** | Saint Paul, MN | Teaching Assistant, Machine Learning and Statistical Computing (MATH 253)
 
 * Attended class to assist with activities and lectures
 
@@ -59,7 +59,7 @@ __Macalester College Mathematics, Statistics, and Computer Science Department__ 
 * Met regularly with the professor to discuss my work and ways to improve
 
 `June to August 2018`
-__Voting Rights Data Institute at Tufts University and MIT__ | Somerville, MA | Undergraduate Summer Fellow
+**Voting Rights Data Institute at Tufts University and MIT** | Somerville, MA | Undergraduate Summer Fellow
 
 * Managed a team to build an [open source shapefile](https://github.com/mggg/ohio-precincts) of 2016 voting precincts in
 Ohio using digitization of PDF maps and computational methods to approximate
@@ -74,7 +74,7 @@ boundaries in counties without maps
 * Pair-programmed an interactive Shiny app showing the output from the Markov chain Monte Carlo algorithm that creates millions of potential districting plans by mapping district flips of individual precincts for use by other researchers
 
 `August 2017 to December 2018`
-__Macalester College Mathematics, Statistics, and Computer Science Department__ | Saint Paul, MN | Teaching Assistant, Introduction to Data Science (COMP 112)
+**Macalester College Mathematics, Statistics, and Computer Science Department** | Saint Paul, MN | Teaching Assistant, Introduction to Data Science (COMP 112)
 
 * Attended class to assist with activities and lectures
 
@@ -87,7 +87,7 @@ __Macalester College Mathematics, Statistics, and Computer Science Department__ 
 * Met regularly with the professor to discuss my work and ways to improve
 
 `June to August 2017`
-__BlueLabs__ | Washington, DC | Data Science Intern
+**BlueLabs** | Washington, DC | Data Science Intern
 
 * Worked on the data science team doing projects related to political analytics
 
@@ -98,7 +98,7 @@ __BlueLabs__ | Washington, DC | Data Science Intern
 * Created a database of influential political donors and potential donors
 
 `January to May 2017`
-__Planned Parenthood Minnesota, North Dakota, South Dakota__ | Saint Paul, MN | Statistical Consultant
+**Planned Parenthood Minnesota, North Dakota, South Dakota** | Saint Paul, MN | Statistical Consultant
 
 * Built logistic regression models to predict no-shows based on previous appointment data and contextual variables
 
@@ -143,42 +143,42 @@ Student Scholar & First Place in Undergraduate Presentation Competition, *Minnes
 
 `2019`
 
-__Saint Paul Public Libraries__ | Panelist at [Open Data Party](https://sppl.bibliocommons.com/events/5ce847c82e1cc62600792065) series, part of the [Civic Switchboard Project](https://civic-switchboard.github.io/)
+**Saint Paul Public Libraries** | Panelist at [Open Data Party](https://sppl.bibliocommons.com/events/5ce847c82e1cc62600792065) series, part of the [Civic Switchboard Project](https://civic-switchboard.github.io/)
 
-__RLadies Twin Cities__ | Co-organizer
+**RLadies Twin Cities** | Co-organizer
 
-__Macalester Mathematics, Statistics, and Computer Science Department__ | Student Representative
+**Macalester Mathematics, Statistics, and Computer Science Department** | Student Representative
 
 `2018`
 
-__Macalester Women in Mathematics, Statistics, and Computer Science Committee__ | Committee Member
+**Macalester Women in Mathematics, Statistics, and Computer Science Committee** | Committee Member
 
 
 ## Talks
 
 `2019`
 
-__Spatial Data Science in R__ | rNorth Conference
+**Spatial Data Science in R** | rNorth Conference
 
-__Digitizing, Districting, and Data: Creating an Open-Source Precinct
-Shapefile for Ohio__ | Honors Defense, Macalester College
+**Digitizing, Districting, and Data: Creating an Open-Source Precinct
+Shapefile for Ohio** | Honors Defense, Macalester College
 
 `2018`
 
-__Digitizing, Districting, and Data: Creating an Open-Source Precinct
-Shapefile for Ohio__ | eUSR Conference
+**Digitizing, Districting, and Data: Creating an Open-Source Precinct
+Shapefile for Ohio** | eUSR Conference
 
-__GIS as a Civic Engagement Tool: The Geography of Voting Rights__ | Macalester Geography Department Seminar
+**GIS as a Civic Engagement Tool: The Geography of Voting Rights** | Macalester Geography Department Seminar
 
-__Digitizing, Districting, and Data: Creating an Open-Source Precinct
-Shapefile for Ohio__ | MN GIS/LIS Conference
+**Digitizing, Districting, and Data: Creating an Open-Source Precinct
+Shapefile for Ohio** | MN GIS/LIS Conference
 
 `2017`
 
-__Political donations from STEM community: Learning dplyr!__ | RLadies Twin Cities
+**Political donations from STEM community: Learning dplyr!** | RLadies Twin Cities
 
-__Writing narratives with data: An introduction to ggplot2!__ | RLadies Twin Cities
+**Writing narratives with data: An introduction to ggplot2!** | RLadies Twin Cities
 
-__Proud leaders: How women in tech talk about themselves on Twitter__ | eUSR Conference
+**Proud leaders: How women in tech talk about themselves on Twitter** | eUSR Conference
 
-__Proud leaders: How women in tech talk about themselves on Twitter__ | Hack and Tell DC
+**Proud leaders: How women in tech talk about themselves on Twitter** | Hack and Tell DC
