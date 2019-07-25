@@ -8,7 +8,7 @@ Geographer, Data Scientist, Information Designer **in** Saint Paul & Seattle (so
 
 <div id="webaddress">
 <a href="mailto:katiejolly6@gmail.com">katiejolly6@gmail.com</a>
-| <a href="http://www.katiejolly.io">katiejolly.io</a> | <a href="https://github.com/katiejolly">Github</a> | <a href="http://www.katiejolly.io/blog">katiejolly.io/blog</a>
+| <a href="http://www.katiejolly.io">katiejolly.io</a> | <a href="https://github.com/katiejolly">github.com/katiejolly</a> | <a href="http://www.katiejolly.io/blog">katiejolly.io/blog</a>
 </div>
 
 
