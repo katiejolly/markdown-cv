@@ -1,8 +1,8 @@
 <style>
 @import url('https://fonts.googleapis.com/css?family=Lato:300&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lora:400,400i&display=swap');
 </style>
-
 
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
@@ -58,21 +58,23 @@ table {
 
 
 body {
-	font-size: 12pt;
-	line-height: 1.35em;
+	font-size: 100%;
+	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: 'Lato', sans-serif;
-	color: #1A1423
-	/*margin-top: 1em;
-	margin-left: 1em;*/
+	font-weight: 300;
+	margin-top: 1em;
+	margin-left: 1em;
+	background-color: #fffff7;
 }
 
 p {
 	position: relative;
 	left: 25%;
-	margin-bottom: 0.2em;
-	margin-right: 0;
-	width: 60%;
+	margin-bottom: 0.7em;
+	margin-right: 0.7;
+	width: 45%;
+	color: #4e5154
 }
 
 code {
@@ -80,22 +82,22 @@ code {
 	font-size: 90%;
 	/*line-height: 1em;*/
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	color: #ccc;
+	color: #74828f;
 }
 
 p code {
 	position: absolute;
 	text-align: right;
-	right: -20%;
+	right: -50%;
 }
 
 
 ul {
 	position: relative;
-	left: 25%;
+	left: 15%;
 	width: 75%;
-	margin-bottom: 1em;
-	/*margin-top: -0.5em;*/
+	margin-bottom: 1.5em;
+	margin-top: -0.5em;
 }
 
 /*uncomment to get dashes in the list*/
@@ -107,7 +109,7 @@ ul {
 
 li {
 	/*second line indent*/
-	padding-left: 1.25em;
+	padding-left: 1 em;
 	text-indent: -1.25em;
 	/*color: #777;*/
 }
@@ -120,9 +122,8 @@ li ul {
 }
 
 h1,h2,h3,h4 {
-	font-weight: 400;
-	font-family: font-family: 'Open Sans', sans-serif;
-	width: 80%;
+	font-family: 'Open Sans', sans-serif;
+	width: 90%;
 }
 
 h1 {
@@ -131,51 +132,54 @@ h1 {
 	line-height: 1em;
 	position: relative;
 	left: 25%;
+	color: #B75D69;
+	width: 80%;
 }
 
 h1+p {
 	/*subtitle*/
+	font-size: 120%;
+	color: #74828f;
+	font-family: 'Lora', serif;
 	font-style: italic;
-	font-size: 110%;
 }
 
 h2 {
 	font-size: 1.1em;
 	color: #774C60;
-	margin-top: 2em;
+	margin-top: 3em;
 	position: relative;
-	top: 1.2em;
+	top: 1.4em;
 	text-align: right;
 	width: 20%;
 }
-
 
 h3 {
 	font-size: 1em;
 	line-height: 2em;
-	color: #774C60;
 	position: relative;
-	top: 1.6em;
+	top: 1.7em;
 	text-align: right;
 	width: 20%;
+	color: #A55178
 }
 
 a {
 	color: inherit;
-	text-decoration:none
+	/*text-decoration:none*/
 }
 
 a:hover {
-	color:#39f
+	background-color:#fce303;
 }
 
 #webaddress {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
-	color: #ccc;
+	color: #774C60;
 	font-family: Monaco,Menlo,monospace,sans-serif;
-	font-size: 90%;
+	font-size: 100%;
 }
 
 #webaddress a {
@@ -183,15 +187,21 @@ a:hover {
 }
 
 em {
-	font-style: normal;
-	color: #2d4e5e
+	/* font-weight: bold; */
+	font-style: italic;
 }
 
 strong {
 	font-weight: bold;
 }
 
-#ghbutton {
+#address {
 	display: none;
-	visibility: hidden;
 }
+
+
+
+/*
+@media only screen and (max-width: 480px) {
+	make one column somehow...
+}*/
