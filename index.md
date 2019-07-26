@@ -17,6 +17,7 @@ Geographer, Data Scientist, Information Designer **in** Saint Paul & Seattle (so
 Regional Policy and Research at Metropolitan Council of the Twin Cities
 
 
+
 ## Research and professional interests
 
 Cartography and information design, Bayesian spatial modeling, data science education, data communication, active transportation & public transit planning, public policy evaluation, statistical computing, neighborhood development
