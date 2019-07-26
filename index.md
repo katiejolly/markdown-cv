@@ -112,6 +112,8 @@ boundaries in counties without maps
 `2019`
 [Curious City: In, Out, Above, Beyond, Saint Paul](https://issuu.com/maccarto/docs/curiouscity), *a cultural atlas*
 
+[Digitizing Precinct Maps: A How-To Guide](http:://katiejolly.io/pdf/digitizing_guide.pdf)
+
 ## R Packages
 
 **Jolly, K.**; Kelly, K. (2019). approxprecincts: Approximate Voting Precinct Boundaries Using Voterfile Addresses. R package version 0.0.0.9000. https://github.com/ykelly/approxprecincts
