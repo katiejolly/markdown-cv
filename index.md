@@ -16,6 +16,8 @@ Geographer, Data Scientist, Information Designer **in** Saint Paul & Seattle (so
 
 Regional Policy and Research at Metropolitan Council of the Twin Cities
 
+[https://ggwash.org/view/72980/bus-lanes-free-transfers-are-washington-area-residents-top-bus-priorities]
+
 
 ## Research and professional interests
 
