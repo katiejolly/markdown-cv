@@ -47,7 +47,7 @@ B.A. Geography, B.A. Applied Mathematics and Statistics (honors) *cum laude*
 * Used Public Use Microdata Survey data to create a series of visualizations about the intersection of race and disability in the Twin Cities for use by the Council for transportation equity planning
 
 `January to May 2019`
-**Macalester College Mathematics, Statistics, and Computer Science Department** | Saint Paul, MN |<br>Teaching Assistant, Machine Learning and Statistical Computing (MATH 253)
+**Macalester College Mathematics, Statistics, and Computer Science Department** | Saint Paul, MN | Teaching Assistant, Machine Learning and Statistical Computing (MATH 253)
 
 * Attended class to assist with activities and lectures
 
@@ -75,7 +75,7 @@ boundaries in counties without maps
 * Pair-programmed an interactive Shiny app showing the output from the Markov chain Monte Carlo algorithm that creates millions of potential districting plans by mapping district flips of individual precincts for use by other researchers
 
 `August 2017 to December 2018`
-**Macalester College Mathematics, Statistics, and Computer Science Department** | Saint Paul, MN |<br> Teaching Assistant, Introduction to Data Science (COMP 112)
+**Macalester College Mathematics, Statistics, and Computer Science Department** | Saint Paul, MN | Teaching Assistant, Introduction to Data Science (COMP 112)
 
 * Attended class to assist with activities and lectures
 
