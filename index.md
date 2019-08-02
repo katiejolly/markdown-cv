@@ -42,7 +42,7 @@ B.A. Geography, B.A. Applied Mathematics and Statistics (honors) *cum laude*
 
 * Found and implemented an algorithm to aggregate census block groups according to contextual and compositional variables in order to create larger geographies with lower standard errors that are still contextually meaningful to local planners
 
-* Wrote an RShiny app to help nonprofits locate apartment complexes that are likely to be sold and flipped in order to help them prioritize their housing affordability work
+* Wrote an R Shiny app to help nonprofits locate apartment complexes that are likely to be sold and flipped in order to help them prioritize their housing affordability work
 
 * Designed Bayesian hierarchical models and ecological inference models to study regional park visitation patterns using location-based services data
 
