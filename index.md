@@ -42,6 +42,8 @@ B.A. Geography, B.A. Applied Mathematics and Statistics (honors) *cum laude*
 
 * Found and implemented an algorithm to aggregate census block groups according to contextual and compositional variables in order to create larger geographies with lower standard errors that are still contextually meaningful to local planners
 
+* Wrote an RShiny app to help nonprofits locate apartment complexes that are likely to be sold and flipped in order to help them prioritize their housing affordability work
+
 * Designed Bayesian hierarchical models and ecological inference models to study regional park visitation patterns using location-based services data
 
 * Used Public Use Microdata Survey data to create a series of visualizations about the intersection of race and disability in the Twin Cities for use by the Council for transportation equity planning
