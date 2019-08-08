@@ -35,7 +35,7 @@ Django, Jekyll, R Shiny, Adobe Illustrator & InDesign, Leaflet, Inkscape, Markdo
 
 B.A. Geography, B.A. Applied Mathematics and Statistics (honors) *cum laude*
 
-* **Honors Thesis** Digitizing, Districting, and Data: Creating an open-source precinct shapefile for Ohio
+**Honors Thesis** Digitizing, Districting, and Data: Creating an open-source precinct shapefile for Ohio
 
 ## Professional Experience
 
