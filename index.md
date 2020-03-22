@@ -4,7 +4,7 @@ title: Katie Jolly's CV
 ---
 # Katie Jolly
 
-Geographer, Data Scientist, Information Designer **in** Saint Paul & Seattle (soon)
+Geographer, Data Scientist, Information Designer **in** Seattle
 
 <div id="webaddress">
 <a href="mailto:katiejolly6@gmail.com">katiejolly6@gmail.com</a>
@@ -14,7 +14,7 @@ Geographer, Data Scientist, Information Designer **in** Saint Paul & Seattle (so
 
 ## Currently
 
-Regional Policy and Research at Metropolitan Council of the Twin Cities
+Data Analyst at Ookla
 
 
 
@@ -37,7 +37,10 @@ B.A. Geography, B.A. Applied Mathematics and Statistics (honors) *cum laude*
 
 ## Professional Experience
 
-`May to August 2019`
+`October 2019 to current`
+**Ookla** | Data Analyst
+
+`May to October 2019`
 **Metropolitan Council of the Twin Cities** | Data Science Intern
 
 * Found and implemented an algorithm to aggregate census block groups according to contextual and compositional variables in order to create larger geographies with lower standard errors that are still contextually meaningful to local planners
